@@ -1,6 +1,6 @@
 # Self-Correcting LLMs Research Papers 2024
 
-## Comics Generation
+## 1. Comics Generation
 ### Stylized Art
 
 ### Previous Work
