@@ -9,8 +9,16 @@
 ### 2.1. GANs
 [1] Generative Adversarial Networks [paper](https://arxiv.org/pdf/1406.2661)
 
+[2] A Style-Based Generator Architecture for Generative Adversarial Networks [paper](https://arxiv.org/pdf/1812.04948)
+
 ### 2.2. Diffusion Models
 [1] Denoising Diffusion Probabilistic Models [paper](https://arxiv.org/pdf/2006.11239)
+
+[2] Diffusion Models Beat GANs on Image Synthesis [paper](https://arxiv.org/abs/2105.05233)
+
+[3] SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis [paper](https://arxiv.org/pdf/2307.01952)
+
+[4] High-Resolution Image Synthesis with Latent Diffusion Models [paper](https://arxiv.org/pdf/2112.10752)
 
 ## 3. Text-to-Image Generative Models
 ### 3.1. Text-to-Image Diffusion Models
@@ -38,6 +46,7 @@
 [1] Attention Is All You Need [paper](https://arxiv.org/pdf/1706.03762)
 
 ## 4. Self-Correcting Text-to-Image Generative Models
+### 4.1. Self Correcting LLMs
 [1] Self-Correcting LLM-controlled Diffusion Models [paper](https://arxiv.org/pdf/2311.16090)
 
 [2] Self-Consuming Models Go MAD [paper](https://arxiv.org/pdf/2307.01850)
@@ -48,12 +57,17 @@
  
 [5] GG-Editor: Locally Editing 3D Avatars with Multimodal Large Language Model Guidance [paper](https://openreview.net/pdf?id=31rrsYnriG)
 
-[6] Concept Sliders [paper](https://arxiv.org/pdf/2311.12092)
+[6] A Survey on Self-Evolution of Large Language Models [paper](https://arxiv.org/pdf/2404.14387)
 
-[7] Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models [paper](https://arxiv.org/pdf/2409.16535)
+### 4.2. Image Editing
+[1] Concept Sliders [paper](https://arxiv.org/pdf/2311.12092)
 
-[8] Adding Conditional Control to Text-to-Image Diffusion Models [paper](https://arxiv.org/pdf/2302.05543)
+[2] Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models [paper](https://arxiv.org/pdf/2409.16535)
+
+[3] Adding Conditional Control to Text-to-Image Diffusion Models [paper](https://arxiv.org/pdf/2302.05543)
  
-[9] Skip-and-Play: Depth-Driven Pose-Preserved Image Generation for Any Objects [paper](https://arxiv.org/pdf/2409.02653)
+[4] Skip-and-Play: Depth-Driven Pose-Preserved Image Generation for Any Objects [paper](https://arxiv.org/pdf/2409.02653)
 
-[10] A Survey on Self-Evolution of Large Language Models [paper](https://arxiv.org/pdf/2404.14387)
+[5] Prompt-to-Prompt Image Editing with Cross Attention Control [paper](https://arxiv.org/pdf/2208.01626)
+
+[6] LoRA: Low-Rank Adaptation of Large Language Models [paper](https://arxiv.org/pdf/2106.09685)
