@@ -1,6 +1,28 @@
 # Self-Correcting LLMs Research Papers 2024
 
-## Self-Correcting LLMs
+## Comics Generation
+### Stylized Art
+
+### Previous Work
+
+## Generative Models
+### GANs
+
+### Diffusion Models
+
+## Text-to-Image Generative Models
+### Text-to-Image Diffusion Models
+[1] Training-Free Layout Control with Cross-Attention Guidance [paper](https://arxiv.org/pdf/2304.03373)
+
+[2] GLIGEN: Open-Set Grounded Text-to-Image Generation [paper](https://arxiv.org/pdf/2301.07093)
+
+[3] Localizing Object-level Shape Variations with Text-to-Image Diffusion Models [paper](https://arxiv.org/pdf/2303.11306)
+
+[4] Paint by Example: Exemplar-based Image Editing with Diffusion Models [paper](https://arxiv.org/pdf/2211.13227)
+
+### Large Language Models
+
+## Self-Correcting Text-to-Image Generative Models
 [1] Self-Correcting LLM-controlled Diffusion Models [paper](https://arxiv.org/pdf/2311.16090)
 
 [2] Self-Consuming Models Go MAD [paper](https://arxiv.org/pdf/2307.01850)
@@ -20,3 +42,4 @@
 [9] Skip-and-Play: Depth-Driven Pose-Preserved Image Generation for Any Objects [paper](https://arxiv.org/pdf/2409.02653)
 
 [10] A Survey on Self-Evolution of Large Language Models [paper](https://arxiv.org/pdf/2404.14387)
+
