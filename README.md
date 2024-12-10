@@ -7,16 +7,16 @@
 
 ## 2. Generative Models
 ### 2.1. GANs
-[1] Generative Adversarial Networks [paper](https://arxiv.org/pdf/1406.2661)
+[] Generative Adversarial Networks [paper](https://arxiv.org/pdf/1406.2661)
 
-[2] A Style-Based Generator Architecture for Generative Adversarial Networks [paper](https://arxiv.org/pdf/1812.04948)
+[] A Style-Based Generator Architecture for Generative Adversarial Networks [paper](https://arxiv.org/pdf/1812.04948)
 
 ### 2.2. Diffusion Models
-[1] Denoising Diffusion Probabilistic Models [paper](https://arxiv.org/pdf/2006.11239)
+[] Denoising Diffusion Probabilistic Models [paper](https://arxiv.org/pdf/2006.11239)
 
-[2] Diffusion Models Beat GANs on Image Synthesis [paper](https://arxiv.org/abs/2105.05233)
+[] Diffusion Models Beat GANs on Image Synthesis [paper](https://arxiv.org/abs/2105.05233)
 
-[3] SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis [paper](https://arxiv.org/pdf/2307.01952)
+[] SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis [paper](https://arxiv.org/pdf/2307.01952)
 
 ## 3. Text-to-Image Generative Models
 ### 3.1. Text-to-Image Diffusion Models
@@ -34,6 +34,8 @@
 
 [7] ReCo: Region-Controlled Text-to-Image Generation [paper](https://arxiv.org/pdf/2211.15518)
 
+[8] Adding Conditional Control to Text-to-Image Diffusion Models [paper](https://arxiv.org/pdf/2302.05543)
+
 ### 3.2. Large Language Models
 [1] Attention Is All You Need [paper](https://arxiv.org/pdf/1706.03762)
 
@@ -49,27 +51,41 @@
 
 ## 4. Self-Correcting Text-to-Image Generative Models
 ### 4.1. Self Correcting LLMs
-[1] Self-Correcting LLM-controlled Diffusion Models [paper](https://arxiv.org/pdf/2311.16090)
+[] Self-Correcting LLM-controlled Diffusion Models [paper](https://arxiv.org/pdf/2311.16090)
 
-[2] Self-Consuming Models Go MAD [paper](https://arxiv.org/pdf/2307.01850)
+[] Self-Consuming Models Go MAD [paper](https://arxiv.org/pdf/2307.01850)
  
-[3] Self-Correcting Self-Consuming Loops for Generative Model Training [paper](https://arxiv.org/pdf/2402.07087)
+[] Self-Correcting Self-Consuming Loops for Generative Model Training [paper](https://arxiv.org/pdf/2402.07087)
  
-[4] GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing [paper](https://arxiv.org/pdf/2407.05600)
+[] GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing [paper](https://arxiv.org/pdf/2407.05600)
  
-[5] GG-Editor: Locally Editing 3D Avatars with Multimodal Large Language Model Guidance [paper](https://openreview.net/pdf?id=31rrsYnriG)
+[] GG-Editor: Locally Editing 3D Avatars with Multimodal Large Language Model Guidance [paper](https://openreview.net/pdf?id=31rrsYnriG)
 
-[6] A Survey on Self-Evolution of Large Language Models [paper](https://arxiv.org/pdf/2404.14387)
+[] A Survey on Self-Evolution of Large Language Models [paper](https://arxiv.org/pdf/2404.14387)
+
+—————————————————————————————————————————————————————————————————————————————————
+
+[] Scaling Open-Vocabulary Object Detection [paper](https://arxiv.org/abs/2306.09683)
 
 ### 4.2. Image Editing
-[1] Concept Sliders [paper](https://arxiv.org/pdf/2311.12092)
+[] Concept Sliders [paper](https://arxiv.org/pdf/2311.12092)
 
-[2] Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models [paper](https://arxiv.org/pdf/2409.16535)
-
-[3] Adding Conditional Control to Text-to-Image Diffusion Models [paper](https://arxiv.org/pdf/2302.05543)
+[] Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models [paper](https://arxiv.org/pdf/2409.16535)
  
-[4] Skip-and-Play: Depth-Driven Pose-Preserved Image Generation for Any Objects [paper](https://arxiv.org/pdf/2409.02653)
+[] Skip-and-Play: Depth-Driven Pose-Preserved Image Generation for Any Objects [paper](https://arxiv.org/pdf/2409.02653)
 
-[5] Prompt-to-Prompt Image Editing with Cross Attention Control [paper](https://arxiv.org/pdf/2208.01626)
+[] LoRA: Low-Rank Adaptation of Large Language Models [paper](https://arxiv.org/pdf/2106.09685)
 
-[6] LoRA: Low-Rank Adaptation of Large Language Models [paper](https://arxiv.org/pdf/2106.09685)
+—————————————————————————————————————————————————————————————————————————————————
+
+[] Prompt-to-Prompt Image Editing with Cross Attention Control [paper](https://arxiv.org/pdf/2208.01626)
+
+[] InstructPix2Pix: Learning to Follow Image Editing Instructions [paper](https://arxiv.org/abs/2211.09800)
+
+[] SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations [paper](https://arxiv.org/abs/2108.01073)
+
+[] DiffEdit: Diffusion-based semantic image editing with mask guidance [paper](https://arxiv.org/abs/2210.11427)
+
+[] Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation [paper](https://arxiv.org/abs/2211.12572)
+
+[] Diffusion Self-Guidance for Controllable Image Generation [paper](https://arxiv.org/abs/2306.00986)
