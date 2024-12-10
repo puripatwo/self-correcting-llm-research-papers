@@ -55,41 +55,47 @@
 
 ## 4. Self-Correcting Text-to-Image Generative Models
 ### 4.1. Self Correcting LLMs
-[] Self-Correcting LLM-controlled Diffusion Models [paper](https://arxiv.org/pdf/2311.16090)
+[1] Self-Correcting LLM-controlled Diffusion Models [paper](https://arxiv.org/pdf/2311.16090)
 
-[] Self-Consuming Models Go MAD [paper](https://arxiv.org/pdf/2307.01850)
+[2] Self-Consuming Models Go MAD [paper](https://arxiv.org/pdf/2307.01850)
  
-[] Self-Correcting Self-Consuming Loops for Generative Model Training [paper](https://arxiv.org/pdf/2402.07087)
+[3] Self-Correcting Self-Consuming Loops for Generative Model Training [paper](https://arxiv.org/pdf/2402.07087)
  
-[] GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing [paper](https://arxiv.org/pdf/2407.05600)
+[4] GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing [paper](https://arxiv.org/pdf/2407.05600)
  
-[] GG-Editor: Locally Editing 3D Avatars with Multimodal Large Language Model Guidance [paper](https://openreview.net/pdf?id=31rrsYnriG)
+[5] GG-Editor: Locally Editing 3D Avatars with Multimodal Large Language Model Guidance [paper](https://openreview.net/pdf?id=31rrsYnriG)
 
-[] A Survey on Self-Evolution of Large Language Models [paper](https://arxiv.org/pdf/2404.14387)
+[6] A Survey on Self-Evolution of Large Language Models [paper](https://arxiv.org/pdf/2404.14387)
 
 —————————————————————————————————————————————————————————————————————————————————
 
-[] Scaling Open-Vocabulary Object Detection [paper](https://arxiv.org/abs/2306.09683)
+[1] Segment Anything [paper](https://arxiv.org/abs/2304.02643)
+
+[2] Scaling Open-Vocabulary Object Detection [paper](https://arxiv.org/abs/2306.09683)
+
+[3] A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT [paper](https://arxiv.org/abs/2302.11382)
+
+[4] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [paper](https://arxiv.org/abs/2201.11903)
 
 ### 4.2. Image Editing
-[] Concept Sliders [paper](https://arxiv.org/pdf/2311.12092)
+[1] Concept Sliders [paper](https://arxiv.org/pdf/2311.12092)
 
-[] Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models [paper](https://arxiv.org/pdf/2409.16535)
+[2] Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models [paper](https://arxiv.org/pdf/2409.16535)
  
-[] Skip-and-Play: Depth-Driven Pose-Preserved Image Generation for Any Objects [paper](https://arxiv.org/pdf/2409.02653)
+[3] Skip-and-Play: Depth-Driven Pose-Preserved Image Generation for Any Objects [paper](https://arxiv.org/pdf/2409.02653)
 
-[] LoRA: Low-Rank Adaptation of Large Language Models [paper](https://arxiv.org/pdf/2106.09685)
+[4] LoRA: Low-Rank Adaptation of Large Language Models [paper](https://arxiv.org/pdf/2106.09685)
 
 —————————————————————————————————————————————————————————————————————————————————
 
-[] Prompt-to-Prompt Image Editing with Cross Attention Control [paper](https://arxiv.org/pdf/2208.01626)
+[1] Prompt-to-Prompt Image Editing with Cross Attention Control [paper](https://arxiv.org/pdf/2208.01626)
 
-[] InstructPix2Pix: Learning to Follow Image Editing Instructions [paper](https://arxiv.org/abs/2211.09800)
+[2] InstructPix2Pix: Learning to Follow Image Editing Instructions [paper](https://arxiv.org/abs/2211.09800)
 
-[] SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations [paper](https://arxiv.org/abs/2108.01073)
+[3] SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations [paper](https://arxiv.org/abs/2108.01073)
 
-[] DiffEdit: Diffusion-based semantic image editing with mask guidance [paper](https://arxiv.org/abs/2210.11427)
+[4] DiffEdit: Diffusion-based semantic image editing with mask guidance [paper](https://arxiv.org/abs/2210.11427)
 
-[] Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation [paper](https://arxiv.org/abs/2211.12572)
+[5] Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation [paper](https://arxiv.org/abs/2211.12572)
 
-[] Diffusion Self-Guidance for Controllable Image Generation [paper](https://arxiv.org/abs/2306.00986)
+[6] Diffusion Self-Guidance for Controllable Image Generation [paper](https://arxiv.org/abs/2306.00986)
