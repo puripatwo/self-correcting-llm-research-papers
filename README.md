@@ -18,32 +18,34 @@
 
 [3] SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis [paper](https://arxiv.org/pdf/2307.01952)
 
-[4] High-Resolution Image Synthesis with Latent Diffusion Models [paper](https://arxiv.org/pdf/2112.10752)
-
 ## 3. Text-to-Image Generative Models
 ### 3.1. Text-to-Image Diffusion Models
-[1] Training-Free Layout Control with Cross-Attention Guidance [paper](https://arxiv.org/pdf/2304.03373)
+[1] High-Resolution Image Synthesis with Latent Diffusion Models [paper](https://arxiv.org/pdf/2112.10752)
 
-[2] GLIGEN: Open-Set Grounded Text-to-Image Generation [paper](https://arxiv.org/pdf/2301.07093)
+[2] Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding [paper](https://arxiv.org/abs/2205.11487)
 
-[3] Localizing Object-level Shape Variations with Text-to-Image Diffusion Models [paper](https://arxiv.org/pdf/2303.11306)
+[3] Training-Free Layout Control with Cross-Attention Guidance [paper](https://arxiv.org/pdf/2304.03373)
 
-[4] Paint by Example: Exemplar-based Image Editing with Diffusion Models [paper](https://arxiv.org/pdf/2211.13227)
+[4] GLIGEN: Open-Set Grounded Text-to-Image Generation [paper](https://arxiv.org/pdf/2301.07093)
 
-[5] ReCo: Region-Controlled Text-to-Image Generation [paper](https://arxiv.org/pdf/2211.15518)
+[5] Localizing Object-level Shape Variations with Text-to-Image Diffusion Models [paper](https://arxiv.org/pdf/2303.11306)
 
-[6] LayoutGPT: Compositional Visual Planning and Generation with Large Language Models [paper](https://arxiv.org/pdf/2305.15393)
+[6] Paint by Example: Exemplar-based Image Editing with Diffusion Models [paper](https://arxiv.org/pdf/2211.13227)
 
-[7] LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models [paper](https://arxiv.org/pdf/2305.13655)
-
-[8] LLM-GROUNDED VIDEO DIFFUSION MODELS [paper](https://arxiv.org/pdf/2309.17444)
-
-[9] VIDEODIRECTORGPT: Consistent Multi-Scene Video Generation via LLM-Guided Planning [paper](https://arxiv.org/pdf/2309.15091)
-
-[10] Controllable Text-to-Image Generation with GPT-4 [paper](https://arxiv.org/pdf/2305.18583)
+[7] ReCo: Region-Controlled Text-to-Image Generation [paper](https://arxiv.org/pdf/2211.15518)
 
 ### 3.2. Large Language Models
 [1] Attention Is All You Need [paper](https://arxiv.org/pdf/1706.03762)
+
+[2] LayoutGPT: Compositional Visual Planning and Generation with Large Language Models [paper](https://arxiv.org/pdf/2305.15393)
+
+[3] LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models [paper](https://arxiv.org/pdf/2305.13655)
+
+[4] LLM-GROUNDED VIDEO DIFFUSION MODELS [paper](https://arxiv.org/pdf/2309.17444)
+
+[5] VIDEODIRECTORGPT: Consistent Multi-Scene Video Generation via LLM-Guided Planning [paper](https://arxiv.org/pdf/2309.15091)
+
+[6] Controllable Text-to-Image Generation with GPT-4 [paper](https://arxiv.org/pdf/2305.18583)
 
 ## 4. Self-Correcting Text-to-Image Generative Models
 ### 4.1. Self Correcting LLMs
