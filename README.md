@@ -36,6 +36,10 @@
 
 [8] Adding Conditional Control to Text-to-Image Diffusion Models [paper](https://arxiv.org/pdf/2302.05543)
 
+[9] MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation [paper](https://arxiv.org/abs/2302.08113)
+
+[10] BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion [paper](https://arxiv.org/abs/2307.10816)
+
 ### 3.2. Large Language Models
 [1] Attention Is All You Need [paper](https://arxiv.org/pdf/1706.03762)
 
