@@ -24,23 +24,25 @@
 
 ## 3. Text-to-Image Generative Models
 ### 3.1. Text-to-Image Diffusion Models
-[1] High-Resolution Image Synthesis with Latent Diffusion Models [paper](https://arxiv.org/pdf/2112.10752)
+[1] Hierarchical Text-Conditional Image Generation with CLIP Latents [paper](https://arxiv.org/abs/2204.06125)
 
-[2] Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding [paper](https://arxiv.org/abs/2205.11487)
+[2] High-Resolution Image Synthesis with Latent Diffusion Models [paper](https://arxiv.org/pdf/2112.10752)
 
-[3] Training-Free Layout Control with Cross-Attention Guidance [paper](https://arxiv.org/pdf/2304.03373)
+[3] Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding [paper](https://arxiv.org/abs/2205.11487)
 
-[4] GLIGEN: Open-Set Grounded Text-to-Image Generation [paper](https://arxiv.org/pdf/2301.07093)
+[4] Training-Free Layout Control with Cross-Attention Guidance [paper](https://arxiv.org/pdf/2304.03373)
 
-[5] Localizing Object-level Shape Variations with Text-to-Image Diffusion Models [paper](https://arxiv.org/pdf/2303.11306)
+[5] GLIGEN: Open-Set Grounded Text-to-Image Generation [paper](https://arxiv.org/pdf/2301.07093)
 
-[6] Paint by Example: Exemplar-based Image Editing with Diffusion Models [paper](https://arxiv.org/pdf/2211.13227)
+[6] Localizing Object-level Shape Variations with Text-to-Image Diffusion Models [paper](https://arxiv.org/pdf/2303.11306)
 
-[7] ReCo: Region-Controlled Text-to-Image Generation [paper](https://arxiv.org/pdf/2211.15518)
+[7] Paint by Example: Exemplar-based Image Editing with Diffusion Models [paper](https://arxiv.org/pdf/2211.13227)
 
-[8] MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation [paper](https://arxiv.org/abs/2302.08113)
+[8] ReCo: Region-Controlled Text-to-Image Generation [paper](https://arxiv.org/pdf/2211.15518)
 
-[9] BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion [paper](https://arxiv.org/abs/2307.10816)
+[9] MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation [paper](https://arxiv.org/abs/2302.08113)
+
+[10] BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion [paper](https://arxiv.org/abs/2307.10816)
 
 ### 3.2. Large Language Models
 [1] Attention Is All You Need [paper](https://arxiv.org/pdf/1706.03762)
