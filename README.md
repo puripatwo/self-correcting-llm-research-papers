@@ -65,7 +65,7 @@
 
 ## 4. Self-Correcting Text-to-Image Generative Models
 ### 4.1. Self Correcting LLMs
-[1] **Self-Correcting LLM-controlled Diffusion Models** [paper](https://arxiv.org/pdf/2311.16090)
+[1] _Self-Correcting LLM-controlled Diffusion Models_ [paper](https://arxiv.org/pdf/2311.16090)
 
 [2] Self-Consuming Models Go MAD [paper](https://arxiv.org/pdf/2307.01850)
  
