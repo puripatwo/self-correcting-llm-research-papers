@@ -15,12 +15,12 @@
 
 [4] Analyzing and Improving the Image Quality of StyleGAN [paper](https://arxiv.org/abs/1912.04958)
 
+[5] StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation [paper](https://arxiv.org/abs/2011.12799)
+
 ### 2.2. Diffusion Models
 [1] Denoising Diffusion Probabilistic Models [paper](https://arxiv.org/pdf/2006.11239)
 
 [2] Diffusion Models Beat GANs on Image Synthesis [paper](https://arxiv.org/abs/2105.05233)
-
-[3] SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis [paper](https://arxiv.org/pdf/2307.01952)
 
 ## 3. Text-to-Image Generative Models
 ### 3.1. Text-to-Image Diffusion Models
@@ -43,6 +43,10 @@
 [9] MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation [paper](https://arxiv.org/abs/2302.08113)
 
 [10] BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion [paper](https://arxiv.org/abs/2307.10816)
+
+[11] SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis [paper](https://arxiv.org/pdf/2307.01952)
+
+[12] Improving Image Generation with Better Captions [paper](https://cdn.openai.com/papers/dall-e-3.pdf)
 
 ### 3.2. Large Language Models
 [1] Attention Is All You Need [paper](https://arxiv.org/pdf/1706.03762)
@@ -116,6 +120,8 @@
 
 [13] Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry [paper](https://arxiv.org/abs/2307.12868)
 
+[14] Uncovering the Disentanglement Capability in Text-to-Image Diffusion Models [paper](https://arxiv.org/abs/2212.08698)
+
 ### 4.3 Model Editing
 [1] Erasing Concepts from Diffusion Models [paper](https://arxiv.org/abs/2303.07345)
 
@@ -127,7 +133,15 @@
 
 [5] Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models [paper](https://arxiv.org/abs/2307.05977)
 
-### 4.4 Personalization
+[6] Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models [paper](https://arxiv.org/abs/2305.10120)
+
+[7] Ablating Concepts in Text-to-Image Diffusion Models [paper](https://arxiv.org/abs/2303.13516)
+
+[8] Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models [paper](https://arxiv.org/abs/2303.17591)
+
+[9] Editing Implicit Assumptions in Text-to-Image Diffusion Models [paper](https://arxiv.org/abs/2303.08084)
+
+### 4.4 Personalization Methods
 [1] "This is my unicorn, Fluffy": Personalizing frozen vision-language representations [paper](https://arxiv.org/abs/2204.01694)
 
 [2] MyStyle: A Personalized Generative Prior [paper](https://arxiv.org/abs/2203.17272)
@@ -159,3 +173,25 @@
 [15] ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation [paper](https://arxiv.org/abs/2302.13848)
 
 [16] P+: Extended Textual Conditioning in Text-to-Image Generation [paper](https://arxiv.org/abs/2303.09522)
+
+### 4.5 Guidance-Based Methods
+[1] Classifier-Free Diffusion Guidance [paper](https://arxiv.org/abs/2207.12598)
+
+[2] Compositional Visual Generation with Composable Diffusion Models [paper](https://arxiv.org/abs/2206.01714)
+
+[3] Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models [paper](https://arxiv.org/abs/2211.05105)
+
+### 4.6 Semantic Direction in Generative Models
+[1] On the "steerability" of generative adversarial networks [paper](https://arxiv.org/abs/1907.07171)
+
+[2] GANSpace: Discovering Interpretable GAN Controls [paper](https://arxiv.org/abs/2004.02546)
+
+[3] Interpreting the Latent Space of GANs for Semantic Face Editing [paper](https://arxiv.org/abs/1907.10786)
+
+[4] Diffusion Models already have a Semantic Latent Space [paper](https://arxiv.org/abs/2210.10960)
+
+[5] Unsupervised Discovery of Semantic Latent Directions in Diffusion Models [paper](https://arxiv.org/abs/2302.12469)
+
+[6] Discovering Interpretable Directions in the Semantic Latent Space of Diffusion Models [paper](https://arxiv.org/abs/2303.11073)
+
+[7] Representation Engineering: A Top-Down Approach to AI Transparency [paper](https://arxiv.org/abs/2310.01405)
