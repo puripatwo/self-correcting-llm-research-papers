@@ -22,6 +22,8 @@
 
 [2] Diffusion Models Beat GANs on Image Synthesis [paper](https://arxiv.org/abs/2105.05233)
 
+[3] Deep Unsupervised Learning using Nonequilibrium Thermodynamics [paper](https://arxiv.org/abs/1503.03585)
+
 ## 3. Text-to-Image Generative Models
 ### 3.1. Text-to-Image Diffusion Models
 [1] Hierarchical Text-Conditional Image Generation with CLIP Latents [paper](https://arxiv.org/abs/2204.06125)
@@ -63,7 +65,7 @@
 
 ## 4. Self-Correcting Text-to-Image Generative Models
 ### 4.1. Self Correcting LLMs
-[1] Self-Correcting LLM-controlled Diffusion Models [paper](https://arxiv.org/pdf/2311.16090)
+[1] **Self-Correcting LLM-controlled Diffusion Models** [paper](https://arxiv.org/pdf/2311.16090)
 
 [2] Self-Consuming Models Go MAD [paper](https://arxiv.org/pdf/2307.01850)
  
