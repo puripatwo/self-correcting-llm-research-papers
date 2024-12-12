@@ -7,18 +7,18 @@
 
 ## 2. Generative Models
 ### 2.1. GANs
-[1] Generative Adversarial Networks [paper](https://arxiv.org/pdf/1406.2661)
+[1] **Generative Adversarial Networks** [paper](https://arxiv.org/pdf/1406.2661)
 
 [2] Large Scale GAN Training for High Fidelity Natural Image Synthesis [paper](https://arxiv.org/abs/1809.11096)
 
-[3] A Style-Based Generator Architecture for Generative Adversarial Networks [paper](https://arxiv.org/pdf/1812.04948)
+[3] **A Style-Based Generator Architecture for Generative Adversarial Networks** [paper](https://arxiv.org/pdf/1812.04948)
 
 [4] Analyzing and Improving the Image Quality of StyleGAN [paper](https://arxiv.org/abs/1912.04958)
 
 [5] StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation [paper](https://arxiv.org/abs/2011.12799)
 
 ### 2.2. Diffusion Models
-[1] Denoising Diffusion Probabilistic Models [paper](https://arxiv.org/pdf/2006.11239)
+[1] **Denoising Diffusion Probabilistic Models** [paper](https://arxiv.org/pdf/2006.11239)
 
 [2] Diffusion Models Beat GANs on Image Synthesis [paper](https://arxiv.org/abs/2105.05233)
 
@@ -28,7 +28,7 @@
 ### 3.1. Text-to-Image Diffusion Models
 [1] Hierarchical Text-Conditional Image Generation with CLIP Latents [paper](https://arxiv.org/abs/2204.06125)
 
-[2] High-Resolution Image Synthesis with Latent Diffusion Models [paper](https://arxiv.org/pdf/2112.10752)
+[2] **High-Resolution Image Synthesis with Latent Diffusion Models** [paper](https://arxiv.org/pdf/2112.10752)
 
 [3] Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding [paper](https://arxiv.org/abs/2205.11487)
 
@@ -48,10 +48,28 @@
 
 [11] SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis [paper](https://arxiv.org/pdf/2307.01952)
 
+—————————————————————————————————————————————————————————————————————————————————
+
 [12] Improving Image Generation with Better Captions [paper](https://cdn.openai.com/papers/dall-e-3.pdf)
 
+—————————————————————————————————————————————————————————————————————————————————
+
+[13] PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis [paper](https://arxiv.org/abs/2310.00426)
+
+[14] Scalable Diffusion Models with Transformers [paper](https://arxiv.org/abs/2212.09748)
+
+[15] BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing [paper](https://arxiv.org/abs/2305.14720)
+
+[16] TextDiffuser: Diffusion Models as Text Painters [paper](https://arxiv.org/abs/2305.10855)
+
+[17] TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering [paper](https://arxiv.org/abs/2311.16465)
+
+[18] T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation [paper](https://arxiv.org/abs/2307.06350)
+
+[19] DiffusionGPT: LLM-Driven Text-to-Image Generation System [paper](https://arxiv.org/abs/2401.10061)
+
 ### 3.2. Large Language Models
-[1] Attention Is All You Need [paper](https://arxiv.org/pdf/1706.03762)
+[1] **Attention Is All You Need** [paper](https://arxiv.org/pdf/1706.03762)
 
 [2] LayoutGPT: Compositional Visual Planning and Generation with Large Language Models [paper](https://arxiv.org/pdf/2305.15393)
 
@@ -65,19 +83,19 @@
 
 ## 4. Self-Correcting Text-to-Image Generative Models
 ### 4.1. Self Correcting LLMs
-[1] _Self-Correcting LLM-controlled Diffusion Models_ [paper](https://arxiv.org/pdf/2311.16090)
+[1] **Self-Correcting LLM-controlled Diffusion Models** [paper](https://arxiv.org/pdf/2311.16090)
 
 [2] Self-Consuming Models Go MAD [paper](https://arxiv.org/pdf/2307.01850)
  
 [3] Self-Correcting Self-Consuming Loops for Generative Model Training [paper](https://arxiv.org/pdf/2402.07087)
  
-[4] GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing [paper](https://arxiv.org/pdf/2407.05600)
+[4] **GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing** [paper](https://arxiv.org/pdf/2407.05600)
  
 [5] GG-Editor: Locally Editing 3D Avatars with Multimodal Large Language Model Guidance [paper](https://openreview.net/pdf?id=31rrsYnriG)
 
-[6] Concept Sliders [paper](https://arxiv.org/pdf/2311.12092)
+[6] **Concept Sliders** [paper](https://arxiv.org/pdf/2311.12092)
 
-[7] Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models [paper](https://arxiv.org/pdf/2409.16535)
+[7] **Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models** [paper](https://arxiv.org/pdf/2409.16535)
 
 [8] Adding Conditional Control to Text-to-Image Diffusion Models [paper](https://arxiv.org/pdf/2302.05543)
 
@@ -87,13 +105,13 @@
 
 —————————————————————————————————————————————————————————————————————————————————
 
-[1] Segment Anything [paper](https://arxiv.org/abs/2304.02643)
+[11] Segment Anything [paper](https://arxiv.org/abs/2304.02643)
 
-[2] Scaling Open-Vocabulary Object Detection [paper](https://arxiv.org/abs/2306.09683)
+[12] Scaling Open-Vocabulary Object Detection [paper](https://arxiv.org/abs/2306.09683)
 
-[3] A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT [paper](https://arxiv.org/abs/2302.11382)
+[13] A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT [paper](https://arxiv.org/abs/2302.11382)
 
-[4] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [paper](https://arxiv.org/abs/2201.11903)
+[14] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [paper](https://arxiv.org/abs/2201.11903)
 
 ### 4.2. Image Editing
 [1] Prompt-to-Prompt Image Editing with Cross Attention Control [paper](https://arxiv.org/pdf/2208.01626)
@@ -107,6 +125,8 @@
 [5] Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation [paper](https://arxiv.org/abs/2211.12572)
 
 [6] Diffusion Self-Guidance for Controllable Image Generation [paper](https://arxiv.org/abs/2306.00986)
+
+—————————————————————————————————————————————————————————————————————————————————
 
 [7] InstructDiffusion: A Generalist Modeling Interface for Vision Tasks [paper](https://arxiv.org/abs/2309.03895)
 
@@ -122,10 +142,22 @@
 
 [13] Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry [paper](https://arxiv.org/abs/2307.12868)
 
+—————————————————————————————————————————————————————————————————————————————————
+
 [14] Uncovering the Disentanglement Capability in Text-to-Image Diffusion Models [paper](https://arxiv.org/abs/2212.08698)
 
+—————————————————————————————————————————————————————————————————————————————————
+
+[15] MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing [paper](https://arxiv.org/abs/2306.10012)
+
+[16] Emu Edit: Precise Image Editing via Recognition and Generation Tasks [paper](https://arxiv.org/abs/2311.10089)
+
+[17] Cones 2: Customizable Image Synthesis with Multiple Subjects [paper](https://arxiv.org/abs/2305.19327)
+
+[18] Sketch-Guided Text-to-Image Diffusion Models [paper](https://arxiv.org/abs/2211.13752)
+
 ### 4.3 Model Editing
-[1] Erasing Concepts from Diffusion Models [paper](https://arxiv.org/abs/2303.07345)
+[1] Erasing Concepts from Diffusion Models* [paper](https://arxiv.org/abs/2303.07345)
 
 [2] Low-rank adaptation for Erasing COncepts from diffusion models [github](https://github.com/p1atdev/LECO/tree/main)
 
@@ -134,6 +166,8 @@
 [4] Unified Concept Editing in Diffusion Models [paper](https://arxiv.org/abs/2308.14761)
 
 [5] Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models [paper](https://arxiv.org/abs/2307.05977)
+
+—————————————————————————————————————————————————————————————————————————————————
 
 [6] Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models [paper](https://arxiv.org/abs/2305.10120)
 
@@ -148,13 +182,13 @@
 
 [2] MyStyle: A Personalized Generative Prior [paper](https://arxiv.org/abs/2203.17272)
 
-[3] An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion [paper](https://arxiv.org/abs/2208.01618)
+[3] **An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion** [paper](https://arxiv.org/abs/2208.01618)
 
 [4] DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [paper](https://arxiv.org/abs/2208.12242)
 
 [5] Multi-Concept Customization of Text-to-Image Diffusion [paper](https://arxiv.org/abs/2212.04488)
 
-[6] LoRA: Low-Rank Adaptation of Large Language Models [paper](https://arxiv.org/pdf/2106.09685)
+[6] **LoRA: Low-Rank Adaptation of Large Language Models** [paper](https://arxiv.org/pdf/2106.09685)
 
 [7] Low-rank Adaptation for Fast Text-to-Image Diffusion Fine-tuning [github](https://github.com/cloneofsimo/lora)
 
