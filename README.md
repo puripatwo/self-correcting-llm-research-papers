@@ -11,18 +11,23 @@
 
 [2] Large Scale GAN Training for High Fidelity Natural Image Synthesis [paper](https://arxiv.org/abs/1809.11096)
 
-[3] **A Style-Based Generator Architecture for Generative Adversarial Networks** [paper](https://arxiv.org/pdf/1812.04948)
+[3] A Style-Based Generator Architecture for Generative Adversarial Networks [paper](https://arxiv.org/pdf/1812.04948)
 
 [4] Analyzing and Improving the Image Quality of StyleGAN [paper](https://arxiv.org/abs/1912.04958)
 
 [5] StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation [paper](https://arxiv.org/abs/2011.12799)
 
 ### 2.2. Diffusion Models
-[1] **Denoising Diffusion Probabilistic Models** [paper](https://arxiv.org/pdf/2006.11239)
+[1] Deep Unsupervised Learning using Nonequilibrium Thermodynamics [paper](https://arxiv.org/abs/1503.03585)
 
-[2] Diffusion Models Beat GANs on Image Synthesis [paper](https://arxiv.org/abs/2105.05233)
+[2] **Denoising Diffusion Probabilistic Models** [paper](https://arxiv.org/pdf/2006.11239)
 
-[3] Deep Unsupervised Learning using Nonequilibrium Thermodynamics [paper](https://arxiv.org/abs/1503.03585)
+[3] Understanding Diffusion Models: A Unified Perspective [paper](https://arxiv.org/abs/2208.11970)
+
+[4] Improved Denoising Diffusion Probabilistic Models [paper](https://arxiv.org/abs/2102.09672)
+
+[5] Diffusion Models Beat GANs on Image Synthesis [paper](https://arxiv.org/abs/2105.05233)
+#### hi
 
 ## 3. Text-to-Image Generative Models
 ### 3.1. Text-to-Image Diffusion Models
