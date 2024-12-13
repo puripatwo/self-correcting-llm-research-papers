@@ -27,7 +27,8 @@
 [4] Improved Denoising Diffusion Probabilistic Models [paper](https://arxiv.org/abs/2102.09672)
 
 [5] Diffusion Models Beat GANs on Image Synthesis [paper](https://arxiv.org/abs/2105.05233)
-#### hi
+
+[6] Classifier-Free Diffusion Guidance [paper](https://arxiv.org/abs/2207.12598)
 
 ## 3. Text-to-Image Generative Models
 ### 3.1. Text-to-Image Diffusion Models
@@ -214,25 +215,3 @@
 [15] ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation [paper](https://arxiv.org/abs/2302.13848)
 
 [16] P+: Extended Textual Conditioning in Text-to-Image Generation [paper](https://arxiv.org/abs/2303.09522)
-
-### 4.5 Guidance-Based Methods
-[1] Classifier-Free Diffusion Guidance [paper](https://arxiv.org/abs/2207.12598)
-
-[2] Compositional Visual Generation with Composable Diffusion Models [paper](https://arxiv.org/abs/2206.01714)
-
-[3] Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models [paper](https://arxiv.org/abs/2211.05105)
-
-### 4.6 Semantic Direction in Generative Models
-[1] On the "steerability" of generative adversarial networks [paper](https://arxiv.org/abs/1907.07171)
-
-[2] GANSpace: Discovering Interpretable GAN Controls [paper](https://arxiv.org/abs/2004.02546)
-
-[3] Interpreting the Latent Space of GANs for Semantic Face Editing [paper](https://arxiv.org/abs/1907.10786)
-
-[4] Diffusion Models already have a Semantic Latent Space [paper](https://arxiv.org/abs/2210.10960)
-
-[5] Unsupervised Discovery of Semantic Latent Directions in Diffusion Models [paper](https://arxiv.org/abs/2302.12469)
-
-[6] Discovering Interpretable Directions in the Semantic Latent Space of Diffusion Models [paper](https://arxiv.org/abs/2303.11073)
-
-[7] Representation Engineering: A Top-Down Approach to AI Transparency [paper](https://arxiv.org/abs/2310.01405)
