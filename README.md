@@ -54,11 +54,7 @@
 
 [11] SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis [paper](https://arxiv.org/pdf/2307.01952)
 
-—————————————————————————————————————————————————————————————————————————————————
-
 [12] Improving Image Generation with Better Captions [paper](https://cdn.openai.com/papers/dall-e-3.pdf)
-
-—————————————————————————————————————————————————————————————————————————————————
 
 [13] PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis [paper](https://arxiv.org/abs/2310.00426)
 
@@ -109,8 +105,6 @@
 
 [10] A Survey on Self-Evolution of Large Language Models [paper](https://arxiv.org/pdf/2404.14387)
 
-—————————————————————————————————————————————————————————————————————————————————
-
 [11] Segment Anything [paper](https://arxiv.org/abs/2304.02643)
 
 [12] Scaling Open-Vocabulary Object Detection [paper](https://arxiv.org/abs/2306.09683)
@@ -132,8 +126,6 @@
 
 [6] Diffusion Self-Guidance for Controllable Image Generation [paper](https://arxiv.org/abs/2306.00986)
 
-—————————————————————————————————————————————————————————————————————————————————
-
 [7] InstructDiffusion: A Generalist Modeling Interface for Vision Tasks [paper](https://arxiv.org/abs/2309.03895)
 
 [8] DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation [paper](https://arxiv.org/abs/2110.02711)
@@ -148,11 +140,7 @@
 
 [13] Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry [paper](https://arxiv.org/abs/2307.12868)
 
-—————————————————————————————————————————————————————————————————————————————————
-
 [14] Uncovering the Disentanglement Capability in Text-to-Image Diffusion Models [paper](https://arxiv.org/abs/2212.08698)
-
-—————————————————————————————————————————————————————————————————————————————————
 
 [15] MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing [paper](https://arxiv.org/abs/2306.10012)
 
@@ -172,8 +160,6 @@
 [4] Unified Concept Editing in Diffusion Models [paper](https://arxiv.org/abs/2308.14761)
 
 [5] Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models [paper](https://arxiv.org/abs/2307.05977)
-
-—————————————————————————————————————————————————————————————————————————————————
 
 [6] Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models [paper](https://arxiv.org/abs/2305.10120)
 
