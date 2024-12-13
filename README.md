@@ -1,4 +1,4 @@
-0# Self-Correcting LLMs Research Papers 2024
+# Self-Correcting LLMs Research Papers 2024
 
 ## 1. Comics Generation
 ### 1.1. Stylized Art
@@ -103,11 +103,11 @@
  
 [3] Self-Correcting Self-Consuming Loops for Generative Model Training [paper](https://arxiv.org/pdf/2402.07087)
  
-[4] **GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing** [paper](https://arxiv.org/pdf/2407.05600)
+[4] GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing [paper](https://arxiv.org/pdf/2407.05600)
  
 [5] GG-Editor: Locally Editing 3D Avatars with Multimodal Large Language Model Guidance [paper](https://openreview.net/pdf?id=31rrsYnriG)
 
-[6] **Concept Sliders** [paper](https://arxiv.org/pdf/2311.12092)
+[6] Concept Sliders [paper](https://arxiv.org/pdf/2311.12092)
 
 [7] **Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models** [paper](https://arxiv.org/pdf/2409.16535)
 
@@ -194,7 +194,7 @@
 
 [5] Multi-Concept Customization of Text-to-Image Diffusion [paper](https://arxiv.org/abs/2212.04488)
 
-[6] **LoRA: Low-Rank Adaptation of Large Language Models** [paper](https://arxiv.org/pdf/2106.09685)
+[6] LoRA: Low-Rank Adaptation of Large Language Models [paper](https://arxiv.org/pdf/2106.09685)
 
 [7] Low-rank Adaptation for Fast Text-to-Image Diffusion Fine-tuning [github](https://github.com/cloneofsimo/lora)
 
