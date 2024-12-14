@@ -34,7 +34,7 @@
 
 [8] Score-Based Generative Modeling through Stochastic Differential Equations [paper](https://arxiv.org/abs/2011.13456)
 
-[9] Learning Transferable Visual Models From Natural Language Supervision [paper](https://arxiv.org/abs/2103.00020)
+[9] Consistency Models [paper](https://arxiv.org/abs/2303.01469)
 
 [10] Understanding Diffusion Models: A Unified Perspective [paper](https://arxiv.org/abs/2208.11970)
 
@@ -80,7 +80,13 @@
 
 [19] T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation [paper](https://arxiv.org/abs/2307.06350)
 
+#### 3.1.3. Others
+
 [20] Scaling Autoregressive Models for Content-Rich Text-to-Image Generation [paper](https://arxiv.org/abs/2206.10789)
+
+[21] Learning Transferable Visual Models From Natural Language Supervision [paper](https://arxiv.org/abs/2103.00020)
+
+[22] DreamFusion: Text-to-3D using 2D Diffusion [paper](https://arxiv.org/abs/2209.14988)
 
 ### 3.2. Large Language Models
 [1] **Attention Is All You Need** [paper](https://arxiv.org/pdf/1706.03762)
