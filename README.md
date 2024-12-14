@@ -26,17 +26,13 @@
 
 [4] Elucidating the Design Space of Diffusion-Based Generative Models [paper](https://arxiv.org/abs/2206.00364)
 
-[5] Diffusion Models Beat GANs on Image Synthesis [paper](https://arxiv.org/abs/2105.05233)
+[5] Analyzing and Improving the Training Dynamics of Diffusion Models [paper](https://arxiv.org/abs/2312.02696)
 
-[6] Classifier-Free Diffusion Guidance [paper](https://arxiv.org/abs/2207.12598)
+[6] Diffusion Models Beat GANs on Image Synthesis [paper](https://arxiv.org/abs/2105.05233)
 
-[7] Cascaded Diffusion Models for High Fidelity Image Generation [paper](https://arxiv.org/abs/2106.15282)
+[7] Classifier-Free Diffusion Guidance [paper](https://arxiv.org/abs/2207.12598)
 
-[8] Score-Based Generative Modeling through Stochastic Differential Equations [paper](https://arxiv.org/abs/2011.13456)
-
-[9] Consistency Models [paper](https://arxiv.org/abs/2303.01469)
-
-[10] Understanding Diffusion Models: A Unified Perspective [paper](https://arxiv.org/abs/2208.11970)
+[8] Understanding Diffusion Models: A Unified Perspective [paper](https://arxiv.org/abs/2208.11970)
 
 ## 3. Text-to-Image Generative Models
 ### 3.1. Text-to-Image Diffusion Models
