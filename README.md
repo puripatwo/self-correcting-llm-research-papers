@@ -7,7 +7,7 @@
 
 ## 2. Generative Models
 ### 2.1. GANs
-[1] **Generative Adversarial Networks** [paper](https://arxiv.org/pdf/1406.2661)
+[1] Generative Adversarial Networks [paper](https://arxiv.org/pdf/1406.2661)
 
 [2] Large Scale GAN Training for High Fidelity Natural Image Synthesis [paper](https://arxiv.org/abs/1809.11096)
 
@@ -20,7 +20,7 @@
 ### 2.2. Diffusion Models
 [1] Deep Unsupervised Learning using Nonequilibrium Thermodynamics [paper](https://arxiv.org/abs/1503.03585)
 
-[2] **Denoising Diffusion Probabilistic Models** [paper](https://arxiv.org/pdf/2006.11239)
+[2] Denoising Diffusion Probabilistic Models [paper](https://arxiv.org/pdf/2006.11239)
 
 [3] Improved Denoising Diffusion Probabilistic Models [paper](https://arxiv.org/abs/2102.09672)
 
@@ -99,7 +99,7 @@
 
 ## 4. Self-Correcting Text-to-Image Generative Models
 ### 4.1. Self-Correcting LLMs
-[1] **Self-Correcting LLM-controlled Diffusion Models** [paper](https://arxiv.org/pdf/2311.16090)
+[1] Self-Correcting LLM-controlled Diffusion Models [paper](https://arxiv.org/pdf/2311.16090)
 
 [2] Self-Consuming Models Go MAD [paper](https://arxiv.org/pdf/2307.01850)
  
@@ -196,7 +196,7 @@
 
 [2] MyStyle: A Personalized Generative Prior [paper](https://arxiv.org/abs/2203.17272)
 
-[3] **An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion** [paper](https://arxiv.org/abs/2208.01618)
+[3] An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion [paper](https://arxiv.org/abs/2208.01618)
 
 [4] DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [paper](https://arxiv.org/abs/2208.12242)
 
