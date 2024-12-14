@@ -81,7 +81,6 @@
 [19] T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation [paper](https://arxiv.org/abs/2307.06350)
 
 #### 3.1.3. Others
-
 [20] Scaling Autoregressive Models for Content-Rich Text-to-Image Generation [paper](https://arxiv.org/abs/2206.10789)
 
 [21] Learning Transferable Visual Models From Natural Language Supervision [paper](https://arxiv.org/abs/2103.00020)
