@@ -183,7 +183,7 @@
 
 [10] Controllable Generation with Text-to-Image Diffusion Models: A Survey [paper](https://arxiv.org/abs/2403.04279)
 
-### 4.4 Personalization Methods
+### 4.4 Personalization
 [1] "This is my unicorn, Fluffy": Personalizing frozen vision-language representations [paper](https://arxiv.org/abs/2204.01694)
 
 [2] MyStyle: A Personalized Generative Prior [paper](https://arxiv.org/abs/2203.17272)
