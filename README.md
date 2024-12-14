@@ -40,6 +40,7 @@
 
 ## 3. Text-to-Image Generative Models
 ### 3.1. Text-to-Image Diffusion Models
+#### 3.1.1. Self-Correcting LLM-controlled Diffusion Models
 [1] Zero-Shot Text-to-Image Generation [paper](https://arxiv.org/abs/2102.12092)
 
 [2] Hierarchical Text-Conditional Image Generation with CLIP Latents [paper](https://arxiv.org/abs/2204.06125)
@@ -66,6 +67,7 @@
 
 [13] Improving Image Generation with Better Captions [paper](https://cdn.openai.com/papers/dall-e-3.pdf)
 
+#### 3.1.2. GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing
 [14] PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis [paper](https://arxiv.org/abs/2310.00426)
 
 [15] Scalable Diffusion Models with Transformers [paper](https://arxiv.org/abs/2212.09748)
@@ -126,6 +128,7 @@
 [14] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [paper](https://arxiv.org/abs/2201.11903)
 
 ### 4.2. Image Editing
+#### 4.2.1. Self-Correcting LLM-controlled Diffusion Models
 [1] Prompt-to-Prompt Image Editing with Cross Attention Control [paper](https://arxiv.org/pdf/2208.01626)
 
 [2] InstructPix2Pix: Learning to Follow Image Editing Instructions [paper](https://arxiv.org/abs/2211.09800)
@@ -138,6 +141,7 @@
 
 [6] Diffusion Self-Guidance for Controllable Image Generation [paper](https://arxiv.org/abs/2306.00986)
 
+#### 4.2.2. Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models
 [7] InstructDiffusion: A Generalist Modeling Interface for Vision Tasks [paper](https://arxiv.org/abs/2309.03895)
 
 [8] DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation [paper](https://arxiv.org/abs/2110.02711)
@@ -152,8 +156,10 @@
 
 [13] Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry [paper](https://arxiv.org/abs/2307.12868)
 
+#### 4.2.3. Concept Sliders
 [14] Uncovering the Disentanglement Capability in Text-to-Image Diffusion Models [paper](https://arxiv.org/abs/2212.08698)
 
+#### 4.2.4. GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing
 [15] MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing [paper](https://arxiv.org/abs/2306.10012)
 
 [16] Emu Edit: Precise Image Editing via Recognition and Generation Tasks [paper](https://arxiv.org/abs/2311.10089)
@@ -163,6 +169,7 @@
 [18] Sketch-Guided Text-to-Image Diffusion Models [paper](https://arxiv.org/abs/2211.13752)
 
 ### 4.3 Model Editing
+#### 4.3.1. Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models
 [1] Erasing Concepts from Diffusion Models [paper](https://arxiv.org/abs/2303.07345)
 
 [2] Low-rank adaptation for Erasing COncepts from diffusion models [github](https://github.com/p1atdev/LECO/tree/main)
@@ -173,6 +180,7 @@
 
 [5] Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models [paper](https://arxiv.org/abs/2307.05977)
 
+#### 4.3.2. Concept Sliders
 [6] Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models [paper](https://arxiv.org/abs/2305.10120)
 
 [7] Ablating Concepts in Text-to-Image Diffusion Models [paper](https://arxiv.org/abs/2303.13516)
