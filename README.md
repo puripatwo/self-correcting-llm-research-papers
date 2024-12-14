@@ -41,31 +41,31 @@
 ## 3. Text-to-Image Generative Models
 ### 3.1. Text-to-Image Diffusion Models
 #### 3.1.1. Self-Correcting LLM-controlled Diffusion Models
-[1] Zero-Shot Text-to-Image Generation [paper](https://arxiv.org/abs/2102.12092)
+[1] DALL-E: Zero-Shot Text-to-Image Generation [paper](https://arxiv.org/abs/2102.12092)
 
-[2] Hierarchical Text-Conditional Image Generation with CLIP Latents [paper](https://arxiv.org/abs/2204.06125)
+[2] DALL-E 2: Hierarchical Text-Conditional Image Generation with CLIP Latents [paper](https://arxiv.org/abs/2204.06125)
 
-[3] High-Resolution Image Synthesis with Latent Diffusion Models [paper](https://arxiv.org/pdf/2112.10752)
+[3] DALL-E 3: Improving Image Generation with Better Captions [paper](https://cdn.openai.com/papers/dall-e-3.pdf)
 
-[4] Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding [paper](https://arxiv.org/abs/2205.11487)
+[4] Stable Diffusion: High-Resolution Image Synthesis with Latent Diffusion Models [paper](https://arxiv.org/pdf/2112.10752)
 
-[5] Training-Free Layout Control with Cross-Attention Guidance [paper](https://arxiv.org/pdf/2304.03373)
+[5] Imagen: Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding [paper](https://arxiv.org/abs/2205.11487)
 
-[6] GLIGEN: Open-Set Grounded Text-to-Image Generation [paper](https://arxiv.org/pdf/2301.07093)
+[6] Training-Free Layout Control with Cross-Attention Guidance [paper](https://arxiv.org/pdf/2304.03373)
 
-[7] Localizing Object-level Shape Variations with Text-to-Image Diffusion Models [paper](https://arxiv.org/pdf/2303.11306)
+[7] GLIGEN: Open-Set Grounded Text-to-Image Generation [paper](https://arxiv.org/pdf/2301.07093)
 
-[8] Paint by Example: Exemplar-based Image Editing with Diffusion Models [paper](https://arxiv.org/pdf/2211.13227)
+[8] Localizing Object-level Shape Variations with Text-to-Image Diffusion Models [paper](https://arxiv.org/pdf/2303.11306)
 
-[9] ReCo: Region-Controlled Text-to-Image Generation [paper](https://arxiv.org/pdf/2211.15518)
+[9] Paint by Example: Exemplar-based Image Editing with Diffusion Models [paper](https://arxiv.org/pdf/2211.13227)
 
-[10] MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation [paper](https://arxiv.org/abs/2302.08113)
+[10] ReCo: Region-Controlled Text-to-Image Generation [paper](https://arxiv.org/pdf/2211.15518)
 
-[11] BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion [paper](https://arxiv.org/abs/2307.10816)
+[11] MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation [paper](https://arxiv.org/abs/2302.08113)
 
-[12] SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis [paper](https://arxiv.org/pdf/2307.01952)
+[12] BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion [paper](https://arxiv.org/abs/2307.10816)
 
-[13] Improving Image Generation with Better Captions [paper](https://cdn.openai.com/papers/dall-e-3.pdf)
+[13] SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis [paper](https://arxiv.org/pdf/2307.01952)
 
 #### 3.1.2. GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing
 [14] PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis [paper](https://arxiv.org/abs/2310.00426)
