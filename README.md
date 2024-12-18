@@ -163,7 +163,6 @@
 [18] MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing [paper](https://arxiv.org/abs/2306.10012)
 
 ### 4.3 Model Editing
-#### 4.3.1. Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models
 [1] Erasing Concepts from Diffusion Models [paper](https://arxiv.org/abs/2303.07345)
 
 [2] Low-rank adaptation for Erasing COncepts from diffusion models [github](https://github.com/p1atdev/LECO/tree/main)
@@ -174,7 +173,6 @@
 
 [5] Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models [paper](https://arxiv.org/abs/2307.05977)
 
-#### 4.3.2. Concept Sliders
 [6] Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models [paper](https://arxiv.org/abs/2305.10120)
 
 [7] Ablating Concepts in Text-to-Image Diffusion Models [paper](https://arxiv.org/abs/2303.13516)
