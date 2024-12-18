@@ -37,15 +37,15 @@
 ## 3. Text-to-Image Generative Models
 ### 3.1. Text-to-Image Diffusion Models
 #### 3.1.1. Self-Correcting LLM-controlled Diffusion Models
-[1] DALL-E: Zero-Shot Text-to-Image Generation [paper](https://arxiv.org/abs/2102.12092)
+[1] Zero-Shot Text-to-Image Generation [paper](https://arxiv.org/abs/2102.12092)
 
-[2] DALL-E 2: Hierarchical Text-Conditional Image Generation with CLIP Latents [paper](https://arxiv.org/abs/2204.06125)
+[2] Hierarchical Text-Conditional Image Generation with CLIP Latents [paper](https://arxiv.org/abs/2204.06125)
 
-[3] DALL-E 3: Improving Image Generation with Better Captions [paper](https://cdn.openai.com/papers/dall-e-3.pdf)
+[3] Improving Image Generation with Better Captions [paper](https://cdn.openai.com/papers/dall-e-3.pdf)
 
-[4] Stable Diffusion: High-Resolution Image Synthesis with Latent Diffusion Models [paper](https://arxiv.org/pdf/2112.10752)
+[4] High-Resolution Image Synthesis with Latent Diffusion Models [paper](https://arxiv.org/pdf/2112.10752)
 
-[5] Imagen: Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding [paper](https://arxiv.org/abs/2205.11487)
+[5] Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding [paper](https://arxiv.org/abs/2205.11487)
 
 [6] Training-Free Layout Control with Cross-Attention Guidance [paper](https://arxiv.org/pdf/2304.03373)
 
