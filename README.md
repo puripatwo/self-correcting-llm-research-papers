@@ -83,17 +83,17 @@
 ### 3.2. Large Language Models
 [1] **Attention Is All You Need** [paper](https://arxiv.org/pdf/1706.03762)
 
-[2] LayoutGPT: Compositional Visual Planning and Generation with Large Language Models [paper](https://arxiv.org/pdf/2305.15393)
+[2] Controllable Text-to-Image Generation with GPT-4 [paper](https://arxiv.org/pdf/2305.18583)
 
-[3] LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models [paper](https://arxiv.org/pdf/2305.13655)
+[3] DiffusionGPT: LLM-Driven Text-to-Image Generation System [paper](https://arxiv.org/abs/2401.10061)
 
-[4] LLM-GROUNDED VIDEO DIFFUSION MODELS [paper](https://arxiv.org/pdf/2309.17444)
+[4] LayoutGPT: Compositional Visual Planning and Generation with Large Language Models [paper](https://arxiv.org/pdf/2305.15393)
 
-[5] VIDEODIRECTORGPT: Consistent Multi-Scene Video Generation via LLM-Guided Planning [paper](https://arxiv.org/pdf/2309.15091)
+[5] LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models [paper](https://arxiv.org/pdf/2305.13655)
 
-[6] Controllable Text-to-Image Generation with GPT-4 [paper](https://arxiv.org/pdf/2305.18583)
+[6] LLM-GROUNDED VIDEO DIFFUSION MODELS [paper](https://arxiv.org/pdf/2309.17444)
 
-[7] DiffusionGPT: LLM-Driven Text-to-Image Generation System [paper](https://arxiv.org/abs/2401.10061)
+[7] VIDEODIRECTORGPT: Consistent Multi-Scene Video Generation via LLM-Guided Planning [paper](https://arxiv.org/pdf/2309.15091)
 
 ## 4. Self-Correcting Text-to-Image Generative Models
 ### 4.1. Self-Correcting LLMs
