@@ -126,18 +126,17 @@
 [14] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [paper](https://arxiv.org/abs/2201.11903)
 
 ### 4.2. Image Editing
-#### 4.2.1. Self-Correcting LLM-controlled Diffusion Models
-[1] Prompt-to-Prompt Image Editing with Cross Attention Control [paper](https://arxiv.org/pdf/2208.01626)
+[1] SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations [paper](https://arxiv.org/abs/2108.01073)
 
-[2] InstructPix2Pix: Learning to Follow Image Editing Instructions [paper](https://arxiv.org/abs/2211.09800)
+[2] Prompt-to-Prompt Image Editing with Cross Attention Control [paper](https://arxiv.org/pdf/2208.01626)
 
-[3] SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations [paper](https://arxiv.org/abs/2108.01073)
+[3] Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation [paper](https://arxiv.org/abs/2211.12572)
 
-[4] DiffEdit: Diffusion-based semantic image editing with mask guidance [paper](https://arxiv.org/abs/2210.11427)
+[4] InstructPix2Pix: Learning to Follow Image Editing Instructions [paper](https://arxiv.org/abs/2211.09800)
 
-[5] Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation [paper](https://arxiv.org/abs/2211.12572)
+[5] Diffusion Self-Guidance for Controllable Image Generation [paper](https://arxiv.org/abs/2306.00986)
 
-[6] Diffusion Self-Guidance for Controllable Image Generation [paper](https://arxiv.org/abs/2306.00986)
+[6] DiffEdit: Diffusion-based semantic image editing with mask guidance [paper](https://arxiv.org/abs/2210.11427)
 
 #### 4.2.2. Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models
 [7] InstructDiffusion: A Generalist Modeling Interface for Vision Tasks [paper](https://arxiv.org/abs/2309.03895)
