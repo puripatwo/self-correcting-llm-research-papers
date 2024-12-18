@@ -204,14 +204,14 @@
 
 [10] Break-A-Scene: Extracting Multiple Concepts from a Single Image [paper](https://arxiv.org/abs/2305.16311)
 
-[11] Subject-driven Text-to-Image Generation via Apprenticeship Learning [paper](https://arxiv.org/abs/2304.00186)
+[11] Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models [paper](https://arxiv.org/abs/2302.12228)
 
-[12] Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models [paper](https://arxiv.org/abs/2302.12228)
+[12] Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models [paper](https://arxiv.org/abs/2304.02642)
 
-[13] Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models [paper](https://arxiv.org/abs/2304.02642)
+[13] InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning [paper](https://arxiv.org/abs/2304.03411)
 
-[14] InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning [paper](https://arxiv.org/abs/2304.03411)
+[14] ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation [paper](https://arxiv.org/abs/2302.13848)
 
-[15] ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation [paper](https://arxiv.org/abs/2302.13848)
+[15] Subject-driven Text-to-Image Generation via Apprenticeship Learning [paper](https://arxiv.org/abs/2304.00186)
 
 [16] P+: Extended Textual Conditioning in Text-to-Image Generation [paper](https://arxiv.org/abs/2303.09522)
