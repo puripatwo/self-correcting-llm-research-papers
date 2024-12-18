@@ -128,42 +128,39 @@
 ### 4.2. Image Editing
 [1] SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations [paper](https://arxiv.org/abs/2108.01073)
 
-[2] Prompt-to-Prompt Image Editing with Cross Attention Control [paper](https://arxiv.org/pdf/2208.01626)
+[2] GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models [paper](https://arxiv.org/abs/2112.10741)
 
-[3] Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation [paper](https://arxiv.org/abs/2211.12572)
+[3] Prompt-to-Prompt Image Editing with Cross Attention Control [paper](https://arxiv.org/pdf/2208.01626)
 
-[4] InstructPix2Pix: Learning to Follow Image Editing Instructions [paper](https://arxiv.org/abs/2211.09800)
+[4] DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation [paper](https://arxiv.org/abs/2110.02711)
 
-[5] Diffusion Self-Guidance for Controllable Image Generation [paper](https://arxiv.org/abs/2306.00986)
+[5] DiffEdit: Diffusion-based semantic image editing with mask guidance [paper](https://arxiv.org/abs/2210.11427)
 
-[6] DiffEdit: Diffusion-based semantic image editing with mask guidance [paper](https://arxiv.org/abs/2210.11427)
+[6] Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation [paper](https://arxiv.org/abs/2211.12572)
 
-#### 4.2.2. Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models
-[7] InstructDiffusion: A Generalist Modeling Interface for Vision Tasks [paper](https://arxiv.org/abs/2309.03895)
+[7] Sketch-Guided Text-to-Image Diffusion Models [paper](https://arxiv.org/abs/2211.13752)
 
-[8] DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation [paper](https://arxiv.org/abs/2110.02711)
+[8] Uncovering the Disentanglement Capability in Text-to-Image Diffusion Models [paper](https://arxiv.org/abs/2212.08698)
 
-[9] GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models [paper](https://arxiv.org/abs/2112.10741)
+[9] InstructPix2Pix: Learning to Follow Image Editing Instructions [paper](https://arxiv.org/abs/2211.09800)
 
-[10] DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing [paper](https://arxiv.org/abs/2306.14435)
+[10] Zero-shot Image-to-Image Translation [paper](https://arxiv.org/abs/2302.03027)
 
 [11] Imagic: Text-Based Real Image Editing with Diffusion Models [paper](https://arxiv.org/abs/2210.09276)
 
-[12] Zero-shot Image-to-Image Translation [paper](https://arxiv.org/abs/2302.03027)
+[12] Cones 2: Customizable Image Synthesis with Multiple Subjects [paper](https://arxiv.org/abs/2305.19327)
 
-[13] Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry [paper](https://arxiv.org/abs/2307.12868)
+[13] Diffusion Self-Guidance for Controllable Image Generation [paper](https://arxiv.org/abs/2306.00986)
 
-#### 4.2.3. Concept Sliders
-[14] Uncovering the Disentanglement Capability in Text-to-Image Diffusion Models [paper](https://arxiv.org/abs/2212.08698)
+[14] InstructDiffusion: A Generalist Modeling Interface for Vision Tasks [paper](https://arxiv.org/abs/2309.03895)
 
-#### 4.2.4. GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing
-[15] MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing [paper](https://arxiv.org/abs/2306.10012)
+[15] Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry [paper](https://arxiv.org/abs/2307.12868)
 
 [16] Emu Edit: Precise Image Editing via Recognition and Generation Tasks [paper](https://arxiv.org/abs/2311.10089)
 
-[17] Cones 2: Customizable Image Synthesis with Multiple Subjects [paper](https://arxiv.org/abs/2305.19327)
+[17] DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing [paper](https://arxiv.org/abs/2306.14435)
 
-[18] Sketch-Guided Text-to-Image Diffusion Models [paper](https://arxiv.org/abs/2211.13752)
+[18] MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing [paper](https://arxiv.org/abs/2306.10012)
 
 ### 4.3 Model Editing
 #### 4.3.1. Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models
