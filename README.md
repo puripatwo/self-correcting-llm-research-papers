@@ -47,15 +47,15 @@
 
 [5] Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding [paper](https://arxiv.org/abs/2205.11487)
 
-[6] Training-Free Layout Control with Cross-Attention Guidance [paper](https://arxiv.org/pdf/2304.03373)
+[6] Paint by Example: Exemplar-based Image Editing with Diffusion Models [paper](https://arxiv.org/pdf/2211.13227)
 
-[7] GLIGEN: Open-Set Grounded Text-to-Image Generation [paper](https://arxiv.org/pdf/2301.07093)
+[7] ReCo: Region-Controlled Text-to-Image Generation [paper](https://arxiv.org/pdf/2211.15518)
 
 [8] Localizing Object-level Shape Variations with Text-to-Image Diffusion Models [paper](https://arxiv.org/pdf/2303.11306)
 
-[9] Paint by Example: Exemplar-based Image Editing with Diffusion Models [paper](https://arxiv.org/pdf/2211.13227)
+[9] GLIGEN: Open-Set Grounded Text-to-Image Generation [paper](https://arxiv.org/pdf/2301.07093)
 
-[10] ReCo: Region-Controlled Text-to-Image Generation [paper](https://arxiv.org/pdf/2211.15518)
+[10] Training-Free Layout Control with Cross-Attention Guidance [paper](https://arxiv.org/pdf/2304.03373)
 
 [11] MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation [paper](https://arxiv.org/abs/2302.08113)
 
