@@ -36,7 +36,6 @@
 
 ## 3. Text-to-Image Generative Models
 ### 3.1. Text-to-Image Diffusion Models
-#### 3.1.1. Self-Correcting LLM-controlled Diffusion Models
 [1] Zero-Shot Text-to-Image Generation [paper](https://arxiv.org/abs/2102.12092)
 
 [2] Hierarchical Text-Conditional Image Generation with CLIP Latents [paper](https://arxiv.org/abs/2204.06125)
@@ -59,11 +58,10 @@
 
 [11] MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation [paper](https://arxiv.org/abs/2302.08113)
 
-[12] BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion [paper](https://arxiv.org/abs/2307.10816)
+[12] SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis [paper](https://arxiv.org/pdf/2307.01952)
 
-[13] SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis [paper](https://arxiv.org/pdf/2307.01952)
+[13] BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion [paper](https://arxiv.org/abs/2307.10816)
 
-#### 3.1.2. GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing
 [14] PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis [paper](https://arxiv.org/abs/2310.00426)
 
 [15] Scalable Diffusion Models with Transformers [paper](https://arxiv.org/abs/2212.09748)
@@ -76,7 +74,6 @@
 
 [19] T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation [paper](https://arxiv.org/abs/2307.06350)
 
-#### 3.1.3. Others
 [20] Scaling Autoregressive Models for Content-Rich Text-to-Image Generation [paper](https://arxiv.org/abs/2206.10789)
 
 [21] Learning Transferable Visual Models From Natural Language Supervision [paper](https://arxiv.org/abs/2103.00020)
