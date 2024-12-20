@@ -85,9 +85,9 @@
 
 [2] Controllable Text-to-Image Generation with GPT-4 [paper](https://arxiv.org/pdf/2305.18583)
 
-[3] DiffusionGPT: LLM-Driven Text-to-Image Generation System [paper](https://arxiv.org/abs/2401.10061)
+[3] LayoutGPT: Compositional Visual Planning and Generation with Large Language Models [paper](https://arxiv.org/pdf/2305.15393)
 
-[4] LayoutGPT: Compositional Visual Planning and Generation with Large Language Models [paper](https://arxiv.org/pdf/2305.15393)
+[4] DiffusionGPT: LLM-Driven Text-to-Image Generation System [paper](https://arxiv.org/abs/2401.10061)
 
 [5] LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models [paper](https://arxiv.org/pdf/2305.13655)
 
