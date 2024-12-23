@@ -50,9 +50,9 @@
 
 [7] ReCo: Region-Controlled Text-to-Image Generation [paper](https://arxiv.org/pdf/2211.15518)
 
-[8] Localizing Object-level Shape Variations with Text-to-Image Diffusion Models [paper](https://arxiv.org/pdf/2303.11306)
+[8] GLIGEN: Open-Set Grounded Text-to-Image Generation [paper](https://arxiv.org/pdf/2301.07093)
 
-[9] GLIGEN: Open-Set Grounded Text-to-Image Generation [paper](https://arxiv.org/pdf/2301.07093)
+[9] Localizing Object-level Shape Variations with Text-to-Image Diffusion Models [paper](https://arxiv.org/pdf/2303.11306)
 
 [10] Training-Free Layout Control with Cross-Attention Guidance [paper](https://arxiv.org/pdf/2304.03373)
 
