@@ -1,12 +1,7 @@
 # Self-Correcting LLMs Research Papers 2024
 
-## 1. Comics Generation
-### 1.1. Stylized Art
-
-### 1.2. Previous Work
-
-## 2. Generative Models
-### 2.1. GANs
+## 1. Generative Models
+### 1.1. GANs
 [1] Generative Adversarial Networks [paper](https://arxiv.org/pdf/1406.2661)
 
 [2] Large Scale GAN Training for High Fidelity Natural Image Synthesis [paper](https://arxiv.org/abs/1809.11096)
@@ -17,7 +12,7 @@
 
 [5] StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation [paper](https://arxiv.org/abs/2011.12799)
 
-### 2.2. Diffusion Models
+### 1.2. Diffusion Models
 [1] Deep Unsupervised Learning using Nonequilibrium Thermodynamics [paper](https://arxiv.org/abs/1503.03585)
 
 [2] Denoising Diffusion Probabilistic Models [paper](https://arxiv.org/pdf/2006.11239)
@@ -32,10 +27,14 @@
 
 [7] Classifier-Free Diffusion Guidance [paper](https://arxiv.org/abs/2207.12598)
 
-[8] Understanding Diffusion Models: A Unified Perspective [paper](https://arxiv.org/abs/2208.11970)
+[8] Score-based Generative Modeling in Latent Space [paper](https://arxiv.org/abs/2106.05931)
 
-## 3. Text-to-Image Generative Models
-### 3.1. Text-to-Image Diffusion Models
+[9] Understanding Diffusion Models: A Unified Perspective [paper](https://arxiv.org/abs/2208.11970)
+
+[10] Tutorial on Diffusion Models for Imaging and Vision [paper](https://arxiv.org/pdf/2403.18103)
+
+## 2. Text-to-Image Generative Models
+### 2.1. Text-to-Image Diffusion Models
 [1] Zero-Shot Text-to-Image Generation [paper](https://arxiv.org/abs/2102.12092)
 
 [2] Hierarchical Text-Conditional Image Generation with CLIP Latents [paper](https://arxiv.org/abs/2204.06125)
@@ -46,41 +45,17 @@
 
 [5] Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding [paper](https://arxiv.org/abs/2205.11487)
 
-[6] Paint by Example: Exemplar-based Image Editing with Diffusion Models [paper](https://arxiv.org/pdf/2211.13227)
+[6] SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis [paper](https://arxiv.org/pdf/2307.01952)
 
-[7] ReCo: Region-Controlled Text-to-Image Generation [paper](https://arxiv.org/pdf/2211.15518)
+[7] Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors [paper](https://arxiv.org/abs/2203.13131)
 
-[8] GLIGEN: Open-Set Grounded Text-to-Image Generation [paper](https://arxiv.org/pdf/2301.07093)
+[8] Scaling Autoregressive Models for Content-Rich Text-to-Image Generation [paper](https://arxiv.org/abs/2206.10789)
 
-[9] Localizing Object-level Shape Variations with Text-to-Image Diffusion Models [paper](https://arxiv.org/pdf/2303.11306)
+[9] An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [paper](https://arxiv.org/abs/2010.11929)
 
-[10] Training-Free Layout Control with Cross-Attention Guidance [paper](https://arxiv.org/pdf/2304.03373)
+[10] Learning Transferable Visual Models From Natural Language Supervision [paper](https://arxiv.org/abs/2103.00020)
 
-[11] MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation [paper](https://arxiv.org/abs/2302.08113)
-
-[12] SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis [paper](https://arxiv.org/pdf/2307.01952)
-
-[13] BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion [paper](https://arxiv.org/abs/2307.10816)
-
-[14] PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis [paper](https://arxiv.org/abs/2310.00426)
-
-[15] Scalable Diffusion Models with Transformers [paper](https://arxiv.org/abs/2212.09748)
-
-[16] BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing [paper](https://arxiv.org/abs/2305.14720)
-
-[17] TextDiffuser: Diffusion Models as Text Painters [paper](https://arxiv.org/abs/2305.10855)
-
-[18] TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering [paper](https://arxiv.org/abs/2311.16465)
-
-[19] T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation [paper](https://arxiv.org/abs/2307.06350)
-
-[20] Scaling Autoregressive Models for Content-Rich Text-to-Image Generation [paper](https://arxiv.org/abs/2206.10789)
-
-[21] Learning Transferable Visual Models From Natural Language Supervision [paper](https://arxiv.org/abs/2103.00020)
-
-[22] DreamFusion: Text-to-3D using 2D Diffusion [paper](https://arxiv.org/abs/2209.14988)
-
-### 3.2. Large Language Models
+### 2.2. Large Language Models
 [1] **Attention Is All You Need** [paper](https://arxiv.org/pdf/1706.03762)
 
 [2] Controllable Text-to-Image Generation with GPT-4 [paper](https://arxiv.org/pdf/2305.18583)
@@ -95,8 +70,7 @@
 
 [7] VIDEODIRECTORGPT: Consistent Multi-Scene Video Generation via LLM-Guided Planning [paper](https://arxiv.org/pdf/2309.15091)
 
-## 4. Self-Correcting Text-to-Image Generative Models
-### 4.1. Self-Correcting LLMs
+## 3. Self-Correcting Text-to-Image Generative Models
 [1] Self-Correcting LLM-controlled Diffusion Models [paper](https://arxiv.org/pdf/2311.16090)
 
 [2] Self-Consuming Models Go MAD [paper](https://arxiv.org/pdf/2307.01850)
@@ -125,7 +99,8 @@
 
 [14] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [paper](https://arxiv.org/abs/2201.11903)
 
-### 4.2. Image Editing
+## 4. Image Editing
+### 4.1. Diffusion-Based Image Editing
 [1] SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations [paper](https://arxiv.org/abs/2108.01073)
 
 [2] GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models [paper](https://arxiv.org/abs/2112.10741)
@@ -162,7 +137,28 @@
 
 [18] MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing [paper](https://arxiv.org/abs/2306.10012)
 
-### 4.3 Model Editing
+[19] PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis [paper](https://arxiv.org/abs/2310.00426)
+
+[20] BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing [paper](https://arxiv.org/abs/2305.14720)
+
+### 4.2. Layout-Controlled Generation
+[1] Paint by Example: Exemplar-based Image Editing with Diffusion Models [paper](https://arxiv.org/pdf/2211.13227)
+
+[2] ReCo: Region-Controlled Text-to-Image Generation [paper](https://arxiv.org/pdf/2211.15518)
+
+[3] GLIGEN: Open-Set Grounded Text-to-Image Generation [paper](https://arxiv.org/pdf/2301.07093)
+
+[4] Localizing Object-level Shape Variations with Text-to-Image Diffusion Models [paper](https://arxiv.org/pdf/2303.11306)
+
+[5] Training-Free Layout Control with Cross-Attention Guidance [paper](https://arxiv.org/pdf/2304.03373)
+
+[6] MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation [paper](https://arxiv.org/abs/2302.08113)
+
+[7] BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion [paper](https://arxiv.org/abs/2307.10816)
+
+[8] DreamFusion: Text-to-3D using 2D Diffusion [paper](https://arxiv.org/abs/2209.14988)
+
+## 5. Model Editing
 [1] Erasing Concepts from Diffusion Models [paper](https://arxiv.org/abs/2303.07345)
 
 [2] Low-rank adaptation for Erasing COncepts from diffusion models [github](https://github.com/p1atdev/LECO/tree/main)
@@ -183,7 +179,7 @@
 
 [10] Controllable Generation with Text-to-Image Diffusion Models: A Survey [paper](https://arxiv.org/abs/2403.04279)
 
-### 4.4 Personalization
+## 6. Personalization
 [1] "This is my unicorn, Fluffy": Personalizing frozen vision-language representations [paper](https://arxiv.org/abs/2204.01694)
 
 [2] MyStyle: A Personalized Generative Prior [paper](https://arxiv.org/abs/2203.17272)
